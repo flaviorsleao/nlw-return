@@ -1,0 +1,33 @@
+:root{
+    
+    --primary-color: #00856F;
+    --headline: #212529;
+    --paragraph:#495057;
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'DM Sans';
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+h4{
+    font-size: 1.4rem;
+    color: var(--primary-color)
+}
+
+h1{
+    font-size: 3.4rem;
+    color: var(--headline)
+    line-height: 130%;
+}
+
+p{
+    font-size: 1.8rem;
+}
+
+button{
+    background: var(--primary-color)
+}
+
